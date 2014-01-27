@@ -1,15 +1,21 @@
-\documentclass[12pt, a4paper]{article} % Document font size and paper size
+\documentclass[11pt, a4paper]{article} % Document font size and paper size
 \usepackage[utf8]{inputenc}
-
-%\usepackage{tgpagella}
-\usepackage[T1]{fontenc}
+\usepackage{DejaVuSans}
 \usepackage{graphicx}
 \usepackage{epstopdf}
+\usepackage{multicol}
+\usepackage{color}
+\usepackage{framed}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+%\usepackage[protrusion=true,expansion=true]{microtype} % Better typography
 
+\definecolor{orange}{HTML}{FF9900}
+\definecolor{shadecolor}{RGB}{150,150,150}
+  
 \graphicspath{ {./images/} }
 \usepackage{hyperref}
 \usepackage{geometry} % Allows the configuration of document margins
-\geometry{a4paper, textwidth=6in, textheight=8.5in, marginparsep=6pt, marginparwidth=.6in} % Document margin settings
+\geometry{a4paper, textwidth=6.8in, textheight=8.5in, marginparsep=6pt, marginparwidth=.6in} % Document margin settings
 \usepackage{color}
 \usepackage{listings}
 \lstset{literate=%
@@ -26,7 +32,23 @@
 \newcommand{\specialcell}[2][c]{%
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
+\renewcommand*{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
 
+\usepackage{titlesec}
+
+\titleformat{\section}
+{\color{orange}\normalfont\LARGE\bfseries}
+{\color{orange}\thesection}{1em}{}
+[
+\vspace{0.5ex}%
+\rule{\textwidth}{2pt}
+\vspace{2ex}%
+] % after-code
+
+\titleformat{\subsection}
+{\color{orange}\normalfont\large\bfseries}
+{\color{orange}\thesubsection}{1em}{}
 
 \begin{document}
 
@@ -38,24 +60,28 @@
 \begin{titlepage}
 %%\let\footnotesize\small \let\footnoterule\relax
 \begin{center}
+
+\hbox{}
+\vskip 1.8cm
+
+\includegraphics[width=0.6\textwidth]{./logo}~
+
 \hbox{}
 \vfill
-
-{\color{blue}\huge\bfseries Semantic Information Firewall\par}
-\vskip 1.8cm
+\vskip 1cm
 Business Plan\\
 von\\[2mm]
 \vskip 1cm
 
 {\large\bfseries Artem Schumilin \& Igor Tseyzer\\}
-\vskip 4cm
+\vskip 3cm
 {\bfseries Seminar}\\
 Developing Business Models \\
 for the Semantic Web (WS 13/14) \\
 %Universität Karlsruhe (TH)\\[2ex]
-\vskip 3cm
+\vskip 2cm
 
-\vskip 3cm
+\vskip 2cm
 December 2013
 
 \end{center}
@@ -67,58 +93,49 @@ December 2013
 %%%%%%%%%%%%%%%%%%%%%%%%%
 
 \tableofcontents
-
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Executive Summary Artem und Igor
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/exec_summary.tex}
-
+\input{./sections/exec_summary.tex}
 
 \newpage
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Geschäftsidee Artem
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/idee.tex}
+\input{./sections/idee.tex}
+
 \newpage
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Analyse des Marktes Igor
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/markt_analyse.tex}
-
+\input{./sections/markt_analyse.tex}
 \newpage
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Marketingstrategien Igor
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/marketing_strategien.tex}
-
+\input{./sections/marketing_strategien.tex}
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Unternehmensplanung Igor
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/unternehmesplanung.tex}
-
+\input{./sections/unternehmesplanung.tex}
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Chancen und Risiken Artem
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{sections/chance_risk.tex}
-
+\input{./sections/chance_risk.tex}
 \newpage
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Finanzplanung Artem
 %%%%%%%%%%%%%%%%%%%%%%%%%
-\input{finanzplan.tex}
+\input{./sections/finanzplan.tex}
 \newpage
 
 
