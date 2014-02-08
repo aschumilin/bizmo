@@ -1,4 +1,4 @@
-\documentclass[11pt, a4paper]{article} % Document font size and paper size
+\documentclass[12pt, a4paper]{article} % Document font size and paper size
 \usepackage[utf8]{inputenc}
 \usepackage{DejaVuSans}
 \usepackage{graphicx}
@@ -6,6 +6,7 @@
 \usepackage{multicol}
 \usepackage{color}
 \usepackage{framed}
+
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 %\usepackage[protrusion=true,expansion=true]{microtype} % Better typography
 
@@ -15,7 +16,7 @@
 \graphicspath{ {./images/} }
 \usepackage{hyperref}
 \usepackage{geometry} % Allows the configuration of document margins
-\geometry{a4paper, textwidth=6.8in, textheight=8.5in, marginparsep=6pt, marginparwidth=.6in} % Document margin settings
+\geometry{a4paper, textwidth=6.5in, textheight=8in, marginparsep=6pt, marginparwidth=.6in} % Document margin settings
 \usepackage{color}
 \usepackage{listings}
 \lstset{literate=%
@@ -27,6 +28,20 @@
     {ä}{{\"a}}1
     {ö}{{\"o}}1
 }
+
+\hypersetup{
+ pdfauthor={Schumilin, Tseyzer},
+ pdftitle={Seminararbeit}
+ pdfsubject={Seminararbeit},
+ pdfkeywords={Not set}
+}
+
+\hyphenation{
+wirt-schaft-liche
+wissen-schaft-liche 
+Wah-rend
+}
+
 \renewcommand{\figurename}{Abbildung} 
 \renewcommand{\tablename}{Tabelle} 
 \newcommand{\specialcell}[2][c]{%
@@ -74,15 +89,15 @@ von\\[2mm]
 \vskip 1cm
 
 {\large\bfseries Artem Schumilin \& Igor Tseyzer\\}
-\vskip 3cm
+\vskip 4cm
 {\bfseries Seminar}\\
 Developing Business Models \\
 for the Semantic Web (WS 13/14) \\
 %Universität Karlsruhe (TH)\\[2ex]
 \vskip 2cm
 
-\vskip 2cm
-December 2013
+\vskip 1cm
+Januar 2014
 
 \end{center}
 \vfill
@@ -106,8 +121,8 @@ December 2013
 % Geschäftsidee Artem
 %%%%%%%%%%%%%%%%%%%%%%%%%
 \input{./sections/idee.tex}
-
 \newpage
+
 %%%%%%%%%%%%%%%%%%%%%%%%%
 % Analyse des Marktes Igor
 %%%%%%%%%%%%%%%%%%%%%%%%%
