@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.1)  9 FEB 2014 18:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.1)  9 FEB 2014 20:19
 entering extended mode
  %&-line parsing enabled.
 **BizPlan.tex
@@ -720,9 +720,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--13
 
 ) [2] (./sections/idee.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <5> on input line 5.
+
+
+LaTeX Font Warning: Font shape `T1/DejaVuSans-TLF/m/it' undefined
+(Font)              using `T1/DejaVuSans-TLF/m/n' instead on input line 5.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
 Package epstopdf Info: Source file: <./images/idea.eps>
 (epstopdf)                    date: 2014-02-09 10:55:23
 (epstopdf)                    size: 218168 bytes
@@ -731,21 +742,17 @@ Package epstopdf Info: Source file: <./images/idea.eps>
 (epstopdf)                    size: 84402 bytes
 (epstopdf)             Command: <epstopdf --outfile=./images/idea-eps-converted
 -to.pdf ./images/idea.eps>
-(epstopdf)             \includegraphics on input line 30.
+(epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
-
-<./images/idea-eps-converted-to.pdf, id=132, 690.58pt x 299.1175pt>
+ <./images/idea-eps-converted-to.pdf, id=141, 690.58pt x 299.1175pt>
 File: ./images/idea-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ./images/idea-eps-converted-to.pdf> [3]
-<./images/mockup_web.png, id=139, 352.6776pt x 304.0158pt>
+<use ./images/idea-eps-converted-to.pdf> [4 <./images/idea-eps-converted-to.pdf
+>] <./images/mockup_web.png, id=157, 352.6776pt x 304.0158pt>
 File: ./images/mockup_web.png Graphic file (type png)
 
 <use ./images/mockup_web.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./images/mockup_app.png, id=140, 159.59625pt x 322.95656pt>
+<./images/mockup_app.png, id=158, 159.59625pt x 322.95656pt>
 File: ./images/mockup_app.png Graphic file (type png)
 
 <use ./images/mockup_app.png>
@@ -753,12 +760,11 @@ File: ./images/mockup_app.png Graphic file (type png)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-) [4 <./images/idea-eps-converted-to.pdf>] (./sections/markt_analyse.tex
-[5 <./images/mockup_web.png (PNG copy)> <./images/mockup_app.png (PNG copy)>]
+) [5 <./images/mockup_web.png (PNG copy)>] (./sections/markt_analyse.tex
 LaTeX Font Info:    Try loading font information for OMS+DejaVuSans-TLF on inpu
 t line 7.
 LaTeX Font Info:    No file OMSDejaVuSans-TLF.fd. on input line 7.
@@ -773,6 +779,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
+[6 <./images/mockup_app.png (PNG copy)>]
 Package epstopdf Info: Source file: <./images/fig1.eps>
 (epstopdf)                    date: 2014-02-09 10:55:23
 (epstopdf)                    size: 64253 bytes
@@ -783,7 +790,8 @@ Package epstopdf Info: Source file: <./images/fig1.eps>
 -to.pdf ./images/fig1.eps>
 (epstopdf)             \includegraphics on input line 34.
 Package epstopdf Info: Output file is already uptodate.
-<./images/fig1-eps-converted-to.pdf, id=161, 455.7025pt x 255.95625pt>
+
+<./images/fig1-eps-converted-to.pdf, id=172, 455.7025pt x 255.95625pt>
 File: ./images/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/fig1-eps-converted-to.pdf>
@@ -798,17 +806,11 @@ Package epstopdf Info: Source file: <./images/fig2.eps>
 (epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
-<./images/fig2-eps-converted-to.pdf, id=163, 454.69875pt x 255.95625pt>
+<./images/fig2-eps-converted-to.pdf, id=174, 454.69875pt x 255.95625pt>
 File: ./images/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ./images/fig2-eps-converted-to.pdf> [6]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7 <./images/fig1-eps-converted-to.pdf>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 69.
-
+<use ./images/fig2-eps-converted-to.pdf> [7 <./images/fig1-eps-converted-to.pdf
+>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -816,6 +818,9 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8 <./images/fig2-eps-converted-to.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -843,22 +848,23 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7608 strings out of 495021
- 106894 string characters out of 1181036
+ 7614 strings out of 495021
+ 107010 string characters out of 1181036
  209330 words of memory out of 3000000
- 10571 multiletter control sequences out of 15000+50000
- 11120 words of font info for 31 fonts, out of 3000000 for 9000
+ 10575 multiletter control sequences out of 15000+50000
+ 11888 words of font info for 32 fonts, out of 3000000 for 9000
  37 hyphenation exceptions out of 8191
- 41i,12n,35p,1203b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home
-/pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/pilatus/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk> </home/pilatus/.texmf-va
-r/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/pilatus/.texmf-var/fonts/p
-k/ljfour/jknappen/ec/ecrm1200.600pk></usr/share/texmf-texlive/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb>
-Output written on BizPlan.pdf (19 pages, 511205 bytes).
+ 41i,12n,35p,1203b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home
+/pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.600pk> </home/pilatus/
+.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/pilatus/.texmf-va
+r/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk> </home/pilatus/.texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecrm1440.600pk> </home/pilatus/.texmf-var/fonts/pk/ljfour/
+jknappen/ec/ecrm1200.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb>
+Output written on BizPlan.pdf (19 pages, 514511 bytes).
 PDF statistics:
- 522 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
+ 534 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
