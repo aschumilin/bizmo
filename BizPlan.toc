@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Executive Summary}{2}{section.1}
+\contentsline {section}{\numberline {2}Gesch\IeC {\"a}ftsidee}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Gr\IeC {\"u}ndungsvorgeschichte}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Know-how Tr\IeC {\"a}ger}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Innovation}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Projektplanung}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Analyse des Marktes}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Zielgruppe und potenzielle Kunden}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Marktsituation}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Auswahl der regionale M\IeC {\"a}rkte}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Sch\IeC {\"a}tzung der Marktvolumen}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Wettbewerber}{10}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Alleinstellungsmerkmal und Kundennutzen}{11}{subsection.3.6}
+\contentsline {section}{\numberline {4}Marketingstrategien}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}Dienstleistungsformen}{12}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Nutzungsverfahren der Dienstleistung}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Monetarisierung}{13}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Vertriebskanake und Kommunikation}{13}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Markteintrittplan}{14}{subsection.4.5}
+\contentsline {section}{\numberline {5}Unternehmensplanung}{16}{section.5}
+\contentsline {section}{\numberline {6}Chancen und Risiken}{17}{section.6}
+\contentsline {section}{\numberline {7}Finanzplanung}{18}{section.7}

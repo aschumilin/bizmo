@@ -6,19 +6,24 @@
 \usepackage{multicol}
 \usepackage{color}
 \usepackage{framed}
-
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{hyperref}
+\usepackage{geometry} % Allows the configuration of document margins
+\usepackage{color}
+\usepackage{listings}
+\usepackage[T1]{fontenc}
+
+\usepackage{titlesec}
+
 %\usepackage[protrusion=true,expansion=true]{microtype} % Better typography
 
 \definecolor{orange}{HTML}{FF9900}
 \definecolor{shadecolor}{RGB}{150,150,150}
   
 \graphicspath{ {./images/} }
-\usepackage{hyperref}
-\usepackage{geometry} % Allows the configuration of document margins
+
 \geometry{a4paper, textwidth=6.5in, textheight=8in, marginparsep=6pt, marginparwidth=.6in} % Document margin settings
-\usepackage{color}
-\usepackage{listings}
+
 \lstset{literate=%
     {Ö}{{\"O}}1
     {Ä}{{\"A}}1
@@ -39,7 +44,13 @@
 \hyphenation{
 wirt-schaft-liche
 wissen-schaft-liche 
-Wah-rend
+Wäh-rend
+Un-ter-nehm-en
+Fin-anz-ver-wal-tung
+Wiss-en-schaft-ler
+durch-zu-führ-en
+in-ge-nieur-wis-sen-schaft-lich
+Ver-öf-fent-lich-un-gen
 }
 
 \renewcommand{\figurename}{Abbildung} 
@@ -48,9 +59,8 @@ Wah-rend
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
 \renewcommand*{\familydefault}{\sfdefault}
-\usepackage[T1]{fontenc}
 
-\usepackage{titlesec}
+
 
 \titleformat{\section}
 {\color{orange}\normalfont\LARGE\bfseries}
@@ -64,7 +74,6 @@ Wah-rend
 \titleformat{\subsection}
 {\color{orange}\normalfont\large\bfseries}
 {\color{orange}\thesubsection}{1em}{}
-
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
