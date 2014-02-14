@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.1)  9 FEB 2014 20:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.1)  14 FEB 2014 19:27
 entering extended mode
  %&-line parsing enabled.
 **BizPlan.tex
@@ -698,42 +698,78 @@ LaTeX Font Warning: Font shape `T1/DejaVuSans-TLF/m/sc' undefined
 (Font)              using `T1/DejaVuSans-TLF/m/n' instead on input line 3.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
+LaTeX Font Warning: Font shape `T1/DejaVuSans-TLF/m/it' undefined
+(Font)              using `T1/DejaVuSans-TLF/m/n' instead on input line 18.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--126
 
  []
 
 
-Overfull \hbox (6.6744pt too wide) in paragraph at lines 3--13
+Overfull \hbox (6.6744pt too wide) in paragraph at lines 3--126
 \T1/DejaVuSans-TLF/m/n/12 kom-merzielle F&E-Abteilungen ihren per-sön-lichen, v
 irtuellen Literatur-Assistenten trainieren,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
+Underfull \hbox (badness 10000) in paragraph at lines 3--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--13
+Underfull \hbox (badness 10000) in paragraph at lines 3--126
 
  []
 
-) [2] (./sections/idee.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--126
+
+ []
+
+[2] (./sections/idee.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
+ [3]
+<./images/jsi-aifb-logo.jpg, id=142, 539.01375pt x 86.3225pt>
+File: ./images/jsi-aifb-logo.jpg Graphic file (type jpg)
+
+<use ./images/jsi-aifb-logo.jpg> [4 <./images/jsi-aifb-logo.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--88
+
+ []
 
 
-LaTeX Font Warning: Font shape `T1/DejaVuSans-TLF/m/it' undefined
-(Font)              using `T1/DejaVuSans-TLF/m/n' instead on input line 5.
+Overfull \hbox (4.65553pt too wide) in paragraph at lines 68--88
+\T1/DejaVuSans-TLF/m/it/12 Tech-nolo-gie bereit, mit deren Hilfe wir die Ex-tra
+k-tion se-man-tis-cher In-for-ma-tion aus Textdoku-
+ []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 9.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 68--88
 
-[3]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--88
+
+ []
+
+
+Overfull \hbox (15.58487pt too wide) in paragraph at lines 68--88
+[]\T1/DejaVuSans-TLF/m/it/12 Unter dem Strich entsteht eine Web-plat-tform zur 
+au-toma-tis-chen und in-di-vidu-ellen Überwachung
+ []
+
 Package epstopdf Info: Source file: <./images/idea.eps>
 (epstopdf)                    date: 2014-02-09 10:55:23
 (epstopdf)                    size: 218168 bytes
@@ -742,17 +778,20 @@ Package epstopdf Info: Source file: <./images/idea.eps>
 (epstopdf)                    size: 84402 bytes
 (epstopdf)             Command: <epstopdf --outfile=./images/idea-eps-converted
 -to.pdf ./images/idea.eps>
-(epstopdf)             \includegraphics on input line 48.
+(epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
- <./images/idea-eps-converted-to.pdf, id=141, 690.58pt x 299.1175pt>
+<./images/idea-eps-converted-to.pdf, id=147, 690.58pt x 299.1175pt>
 File: ./images/idea-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ./images/idea-eps-converted-to.pdf> [4 <./images/idea-eps-converted-to.pdf
->] <./images/mockup_web.png, id=157, 352.6776pt x 304.0158pt>
+<use ./images/idea-eps-converted-to.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5] <./images/mockup_web.png, id=154, 352.6776pt x 304.0158pt>
 File: ./images/mockup_web.png Graphic file (type png)
 
 <use ./images/mockup_web.png>
-<./images/mockup_app.png, id=158, 159.59625pt x 322.95656pt>
+<./images/mockup_app.png, id=155, 159.59625pt x 322.95656pt>
 File: ./images/mockup_app.png Graphic file (type png)
 
 <use ./images/mockup_app.png>
@@ -760,11 +799,12 @@ File: ./images/mockup_app.png Graphic file (type png)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
-) [5 <./images/mockup_web.png (PNG copy)>] (./sections/markt_analyse.tex
+[6 <./images/idea-eps-converted-to.pdf> <./images/mockup_web.png (PNG copy)>])
+[7 <./images/mockup_app.png (PNG copy)>] (./sections/markt_analyse.tex
 LaTeX Font Info:    Try loading font information for OMS+DejaVuSans-TLF on inpu
 t line 7.
 LaTeX Font Info:    No file OMSDejaVuSans-TLF.fd. on input line 7.
@@ -779,7 +819,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
-[6 <./images/mockup_app.png (PNG copy)>]
 Package epstopdf Info: Source file: <./images/fig1.eps>
 (epstopdf)                    date: 2014-02-09 10:55:23
 (epstopdf)                    size: 64253 bytes
@@ -790,8 +829,7 @@ Package epstopdf Info: Source file: <./images/fig1.eps>
 -to.pdf ./images/fig1.eps>
 (epstopdf)             \includegraphics on input line 34.
 Package epstopdf Info: Output file is already uptodate.
-
-<./images/fig1-eps-converted-to.pdf, id=172, 455.7025pt x 255.95625pt>
+<./images/fig1-eps-converted-to.pdf, id=177, 455.7025pt x 255.95625pt>
 File: ./images/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/fig1-eps-converted-to.pdf>
@@ -806,55 +844,59 @@ Package epstopdf Info: Source file: <./images/fig2.eps>
 (epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
-<./images/fig2-eps-converted-to.pdf, id=174, 454.69875pt x 255.95625pt>
+<./images/fig2-eps-converted-to.pdf, id=179, 454.69875pt x 255.95625pt>
 File: ./images/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
-<use ./images/fig2-eps-converted-to.pdf> [7 <./images/fig1-eps-converted-to.pdf
->]
+<use ./images/fig2-eps-converted-to.pdf> [8]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./images/fig1-eps-converted-to.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./images/fig2-eps-converted-to.pdf>]
+[10 <./images/fig2-eps-converted-to.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9] [10]) [11] (./sections/marketing_strategien.tex
+[11] [12]) [13] (./sections/marketing_strategien.tex
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
 
 Overfull \hbox (1.66039pt too wide) in paragraph at lines 23--24
-[]\T1/DejaVuSans-TLF/m/n/12 Self-Learning Al-go-rith-mus zur Verbesserung Suche
-rgeb-nisse, basiert auf vorher gesuchte
+[]\T1/DejaVuSans-TLF/m/it/12 Self-Learning Al-go-rith-mus zur Verbesserung Such
+ergeb-nisse, basiert auf vorher gesuchte
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[13] [14]) [15] (./sections/unternehmesplanung.tex) [16]
-(./sections/chance_risk.tex) [17] (./sections/finanzplan.tex) [18]
-(./BizPlan.aux)
+[15] [16]) [17] (./sections/unternehmesplanung.tex) [18]
+(./sections/chance_risk.tex
+Overfull \hbox (20.20056pt too wide) in paragraph at lines 11--19
+ [][] 
+ []
+
+) [19] (./sections/finanzplan.tex) [20] (./BizPlan.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7614 strings out of 495021
- 107010 string characters out of 1181036
+ 7624 strings out of 495021
+ 107210 string characters out of 1181036
  209330 words of memory out of 3000000
- 10575 multiletter control sequences out of 15000+50000
+ 10581 multiletter control sequences out of 15000+50000
  11888 words of font info for 32 fonts, out of 3000000 for 9000
  37 hyphenation exceptions out of 8191
- 41i,12n,35p,1203b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,1203b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home
 /pilatus/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.600pk> </home/pilatus/
 .texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/pilatus/.texmf-va
@@ -862,9 +904,9 @@ r/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk> </home/pilatus/.texmf-var/fonts/p
 k/ljfour/jknappen/ec/ecrm1440.600pk> </home/pilatus/.texmf-var/fonts/pk/ljfour/
 jknappen/ec/ecrm1200.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb>
-Output written on BizPlan.pdf (19 pages, 514511 bytes).
+Output written on BizPlan.pdf (21 pages, 543370 bytes).
 PDF statistics:
- 534 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 207 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 212 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 \section{Executive Summary}
 
-\scshape{\color{orange}{SemLit}} revolutioniert die Literaturrecherche in der überwältigenden Informationsflut unserer Wissensgesellschaft. Mit uns automatisieren Sie Ihre Literaturrecherche und verpassen nie mehr eine interessante Veröffentlichung aus Ihrem Fachgebiet. 
+\textsc{\color{orange}{SemLit}} revolutioniert die Literaturrecherche in der überwältigenden Informationsflut unserer Wissensgesellschaft. Mit uns automatisieren Sie Ihre Literaturrecherche und verpassen nie mehr eine interessante Veröffentlichung aus Ihrem Fachgebiet. 
 \\
 \\
 Basierend auf weltweit führender {\color{orange}{Semantischer Technologie}} stellt SemLit eine leistungssarke Web-Plattform für Wissensarbeiter zur Verfügung. Bei uns können Forscher, Studenten und kommerzielle F\&E-Abteilungen ihren persönlichen, virtuellen Literatur-Assistenten trainieren, der für sie maßgeschneiderten Content zur richtigen Zeit und im richtigen Kontext liefert. 
@@ -10,6 +10,16 @@ Als erster Anbieter für semantisches Information Retrieval positioniert sich Se
 \\
 \\
 Das {\color{orange}{Gründerteam}} von SemLit bringt umfassendes praktisches und theoretisches Know-How auf dem Gebiet Semantischer Technologien mit und ergänzt es durch belegbare  betriebswirtschaftliche Kompetenzen. Zusätzlich stehen den Gründern renommierte Partner aus der universitären Forschung zur Seite.
-
-
-
+\\
+\\
+\begin{table}[h!]
+  \centering
+  \begin{large}
+  \begin{tabular}{c}\hline
+  \\
+  {\color{orange}SemLit wird die mühsame Praxis der Literatursuche radikal vereinfachen.}\\
+  {\color{orange}Lesen Sie im Folegenden wie diese Revolution vonstatten gehen soll.}\\
+  \\\hline
+  \end{tabular}
+  \end{large}
+\end{table}
