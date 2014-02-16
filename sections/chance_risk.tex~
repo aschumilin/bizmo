@@ -1,21 +1,40 @@
 \section{Chancen und Risiken}
-In diesem Abschnitt diskutieren wir Umweltbedingungen, die sich positiv auf das Start-Up auswirken, beschreiben aber auch mögliche Risikofaktoren und zeigen, wie \textsc{SemLit} sie bewältigen kann.
+In diesem Abschnitt diskutieren wir interne Faktoren und externe Umweltbedingungen, die sich positiv auf das Start-Up auswirken, beschreiben aber auch mögliche Risikofaktoren und zeigen, wie \textsc{SemLit} sie bewältigen kann.
+\subsection{Stärken}
+\textbf{Technologie}\\
+Unsere größte Stärke liegt zweifelsohne in der innovativen semantischen Tehcnologie. Dabei konnte sie sich schon in zahlreichen anwendungsorientierten Forschungsprojekten bewähren und hat auch gute Ergebnisse geliefert.
+\\
+\\
+\textbf{Skalierbarkeit und Wachstum}\\
+Die angewandte Technologie bringt wiederum den Vorteil mit sich, dass sie sehr gut skaliert und ohne großen Aufwand auf neue Wissens-Domänen angewandt werden kann. Damit hat SemLit das Potential, sich schnell und kostengünstig neuen Kundengruppen zuwenden zu können. So wäre es beispielsweise in naher Zukunft möglich, den Informationsmarkt für Rechts- und Finanzliteratur in den Fokus zu nehmen. Sowohl im einen, als auch im anderen Sektor kann man präzise eine Menge an hoch-qualitativen Online-Quellen für relevante Veröffentlichungen indetifizieren und dazuschalten. Im Ergebnis wäre eine Kundengruppe mit besonders hoher Zahlungsbereitschaft gewonnen.
+\\
+\\
+\textbf{Standort}\\
+Bei der gegenwärtigen Lage in Sachen Datenschutz und -sicherheit ist ein Unternehmenssitz in Deutschland von großem Vorteil. Die hohen Standards hierzulande bilden ein überzeugendes Argument, besonders für Kunden aus dem angelsächsischen Raum, und insbesondere angesichts neuester Datenschutzskandale.
 
+\subsection{Schwächen}
+\textbf{Recruiting als Start-Up}\\
+Als Start-Up ist es nicht einfach, die besten Mitarbeiter anzuwerben. Während die finanzielle Situation keine hohen Gehälter zulässt, stellt die Geschäftslage hohe Arbeitsbelastungen in Aussicht. Diesem Problem wollen wir mit einer wenig rigiden Arbeitszeitplanung und Aussicht auf Erfolgsbeteiligung entgegenwirken. 
+\\
+\\
+\textbf{Kommerzielle Nutzung von Abstracts}\\
+Eine weitere Frage erwächst aus der kommerziellen Nutzung von Abstract-Texten. Die Verlage veröffentlichen diese im Normalfall zur unentgeltlichen Nutzung. Ob bei massivem Crawling von Abstracts mit einer Rechtsklage zu rechnen ist, muss beim Rechtsexperten endgültig geklärt werden. \\
+Eigentlich ist SemLit aus unserer Sicht letztendlich sogar vorteilhaft für die Verlage, weil es zu weitreichender und einfacher Verbreitung ihrer Publikationen führt.
 
-WO GENAU IST DER DAUERHAFTE WETTBEWERBSVORTEIL?
+\subsection{Chancen}
+\textbf{Positive Marktstimmung}\\
+Der Markt ist bereit für semantische Technologien: Der Gartner-Bericht 2013\footnote[5]{Quelle: http://www.gartner.com/newsroom/id/2359715} erkennt in semantischen Technologien den Schlüssel zur Bewältigung kommender Herausforderungen in der Informationsverarbeitung. Nach unserer Einschätzung gehen damit positive Kunden-Erwartungen, eine geringere Hemmschwelle und auch höhere Zahlungsbereitschaft einher.
+\\
+\\
+\textbf{Exit durch Übernahme}\\
+Als stark spezialisiertes Unternehmen in einem hochinnovativen Technologiesegment ist SemLit ein guter Kandidat für die Übernahme durch einen der großen Spieler. Außerdem werden die Vorzeichen einer Übernahme durch die kommende Erholung der Weltkonjunktur begünstigt. Für SemLit ist das die bevorzugte Exit-Strategie.
 
-Chancen:
-- der Markt ist bereit für semantische Technologien: der Gartner-Bericht 2013 (http://www.gartner.com/newsroom/id/2359715) erkennt in Semantischen Technologien den Schlüssel zur Bewältigung kommender Herausforderungen in der Informationsverarbeitung.
-- Bedarf an Tools zur Bewältigung wachsender Informationsmengen
-
-
-Risiken:
-- Risikofaktor Zahlungsbereitschaft
-- Risikofaktor kommerzielle Verwendung öffentlich verfügbarer Information 
-- Risikofaktor Konkurrenz
-- Risikofaktor Recruiting unter Start-Up-Bedingungen
-- Risikofaktor Micropayments - Anteil des Dienstleisters
-
-
-- mögliche Schwierigkeiten bei der Entwicklung des Produkts bzw. der Dienstleistung, bei der Gewinnung von Investoren/Geldgebern sowie von Mitarbeitern oder beim Markteintritt 
-
+\subsection{Risiken}
+\textbf{Konkurrenz}\\
+Der beste Kandidat für einen direkten Konkurrenten wäre Google. Neben massiver technologischer und personeller Kompetenz verfügt Google mit dem Dienst Scholar bereits über die nötige Datengrundlage.\\
+Bis jetzt deutet allerdings nichts darauf hin, dass Google Scholar zu einem vergleichbar umfassenden und spezialisierten Angebot ausgebaut werden soll. 
+\\
+\\
+\textbf{Micropayment-Gebühren}\\
+Um die Reichweite im Markt zu erhöhen, wird SemLit auf einen Micropayment-Dienstleiter wie PayPal angewiesen sein. Bei jeder Transaktion würdem deshalb entsprechende Gebühren anfallen. Außerdem könnte sich mit der Zeit ihre Höhe ändern.\\
+Derzeit verlangt PayPal jedoch einen vertretbaren Aufschlag: Für Zahlungen innerhalb Deutschlands entstehen ca. 2,5\% und international etwa 3-5\% an Umsatzgebühren. Damit ist die starke erhöhte Reichweite bei diesem Stand relativ billig erkauft.

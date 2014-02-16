@@ -56,8 +56,11 @@ Die Idee und Umsetzung wird von zwei Studenten des Karlsruher Instituts für Tec
 \centering
 \includegraphics[width=0.6\textwidth]{jsi-aifb-logo}
 \end{figure}
-
-Außerdem stehen den Gründern renommierte Partner aus der Forschung zur Seite: 
+\emph{<hier: Liste relevanter Fähigkeiten und Erfahrungen>}
+Igor wird im neuen Unternehmen die Marketingstrategie entwickeln und den Vertrieb organisieren, während Artem Verantwortung für die Produktentwicklung und die Finanzen übernehmen wird. 
+\\
+\\
+Neben dem KIT-eigenen Gründernnetzwerk stehen den Gründern renommierte Partner aus der Forschung zur Seite: 
 Das Josef-Stefan-Institut (JSI) hat mit Enrycher die weltweit führende \emph{named entity recognition engine} entwickelt und tritt damit als der Tchnologiepartner von SemLit auf. 
 Das Institut AIFB des KIT erweist sich erfahrener Mentor in Sachen Ausgründung im Bereich semantischer Technologie und wird das Start-Up mit seinen Kontakten und Rat unterstützen.
 
@@ -66,13 +69,19 @@ Das Institut AIFB des KIT erweist sich erfahrener Mentor in Sachen Ausgründung 
 \subsection{Innovation}
 
 \textsc{Schritt 0:} wo es beginnt\\
-Wir beginnen bei den Informations-Items, die im Internet zur freien Verfügung stehen. Dazu gehören vor allem die Abstracts von wissenschaftlichen Veröffentlichungen aus Journals und Konferenzbänden aber auch Artikel in relevanten Blogs und Online-Magazinen. \\
+Wir beginnen bei den Informations-Items, die im Internet zur freien Verfügung stehen. Dazu gehören vor allem die Abstracts von wissenschaftlichen Veröffentlichungen aus Journals und Konferenzbänden aber auch Artikel in relevanten Blogs und Online-Magazinen. Die Vielzahl der Quellen wird automatish überwacht, um die Nahezu-Echtzeit-Anforderung erfüllen zu können.\\
 {\color{orange}Unsere Kunden können die Auswahl der Quellen auf ihre individuellen Bedürfnisse anpassen. }
 \\
 \\
 \textsc{Schritt 1:} die Semantik hinter dem Text\\
 Der Kerngedanke hinter SemLit gründet auf den Möglichkeiten, die durch semantische Repräsentation von Textinformation entehen. Dazu gehört die Erkennung von named entities und ihrer Beziehungen untereinander. Mit JSI's Enrycher steht uns die derzeit weltbeste Technologie bereit, mit deren Hilfe wir die Extraktion semantischer Information aus Textdokumenten realisieren. 
 \\
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.9\textwidth]{idea}
+\caption{Funktionsschema von SemLit}
+\label{fig:idea}
+\end{figure}
 \\
 \textsc{Schritt 2: Informationswunsch äußern}\\
 Wie die Textinformation auf der einen Seite, können auf der anderen Seite auch die Suchanfrage der Kunden semantisch repräsentiert werden. Damit kann der Benutzer extrem nuancierte Konzepte ausdrücken. 
@@ -84,37 +93,87 @@ Dieses semantische \emph{information retrieval} liefert deutlich bessere Ergebni
 Wir bleiben keineswegs bei den Suchanfragen stehen, sondern gehen noch einen Schritt weiter: Nichts sagt mehr über das Suchinteresse eines Benutzers aus als seine bestehende Dokumentsammlung. Warum also nicht daraus lernen? --- Bei SemLit hat der Kunde die Möglichkeit, ein individuelles System durch Hochladen eigener Dokumente zu trainieren.
 \\
 \\
-{\color{orange}Unter dem Strich entsteht eine Webplattform zur automatischen und individuellen Überwachung der Informationslandschaft. Das System weiß, was der Benutzer will und informiert ihn rechtzeitig, wenn die passende Publikation, der Blogeintrag oder News-Artikel in Web auftaucht.}
-
-
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.9\textwidth]{idea}
-\caption{Funktionsschema von SemLit}
-\label{fig:idea}
-\end{figure}
-
+{\color{orange}Unter dem Strich entsteht eine Webplattform zur automatischen und individuellen Überwachung der Informationslandschaft. Das System weiß, was der Benutzer will und informiert ihn rechtzeitig, wenn die passende Publikation, ein Blogeintrag oder News-Artikel in Web auftaucht.}
 
 %=======================================
 
-\subsection{Projektplanung}
-
-SemLit ist in zwei Formen verfügbar: Webauftritt und App für Mobile Geräte. Das Mockup für Webauftritt und Mobile APP können in Abbildung \ref{fig:web} und \ref{fig:app} gesehen werden.
-
+\subsection{Produkt}
+SemLit soll in Form einer Web-Applikation und einer App für mobile Geräte an die Kunden ausgeliefert werden. In den nachfolgenden Abbildungen \ref{fig:app} und \ref{fig:website} erklären Entwürde die wichtigsten Komponenten der Funktionalität. 
+\\
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.6\textwidth]{mockup_web}
-\caption{Mockup für Webauftritt}
-\label{fig:web}
-\end{figure}
-
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.2\textwidth]{mockup_app}
-\caption{Mockup für Mobile App}
+\includegraphics[width=0.5\textwidth]{app}
+\caption{SemLit mobile App aggregiert die Funktionalität des Webportals auf kleinem Raum.}
 \label{fig:app}
 \end{figure}
+\\
+\\
+\\
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{website}
+\caption{SemLit Webportal mit Erläuterungen zu den wichtigsten Komponenten der Funktionalität.}
+\label{fig:website}
+\end{figure}
 
-Die Beide Formen sind Benutzer freundlich und stellen eine Möglichkeit schnell und ohne zusätzliche Aufwand gewünschte Information suchen und verwalten.\\
+\newpage
+%=======================================
+
+\subsection{Kundennutzen}
+Das Problem mühsamer und zeitraubender Literaturrecherche besteht schon seit es wissenschaftliches Arbeiten gibt. SemLit ist der erste Service auf dem Markt, der dieses Problem durch weitgehende Automatisierung mit semantischen Technologien löst. 
+\\
+Eine regelbare Vielzahl an Quellen wird durch ein lernfähiges System analysiert und überwacht. Durch SemLit ergeben sich also konkrete Vorteile für den Kunden:
+\begin{itemize}
+\item Hohe Qualität der Suchergebnisse durch Semantik
+\item Neue, potentiell interessante Ergebnisse aus angrenzenden Fachgebieten werden mitgeliefert
+\item Informationssuche wird automatisiert
+\item Nahezu-realtime Benachrichtigung über neue Veröfentlichungen
+\item System passt sich dem Benutzer durch Lerneffekte an und wird mit der Zeit noch besser
+\end{itemize}
+
+Die Verbesserung aus diesen Faktoren lässt sich wiederum in Zahlen fassen: Wenn man auf die zuvor erwähnte Studie des IDC (2005) zurückgreift, kann ein Wissensarbeiter demnach mindestens 25\% seiner Zeit einsparen, indem er die Informationssuche mit SemLit weitgehend automatisiert. Für den Arbeitgeber bedeutet das eine geldwerte Ersparnis in Höhe von über 10.000\euro  pro Jahr\footnote[4]{Ausgehend vom bundesweiten monatlichen Durchschnittsgehalt von 3.600\euro  brutto.}.
+
+%=======================================
+
+
+\subsection{Unternehmensplanung}
+
+\subsubsection{Rechtliches}
+Das Gründerteam wählt die mimi-GmbH als Rechtsform für die Anfangsphase der Unternehmung. Ein Vorteil davon sind die geringeren Kosten der Anmeldung und Anfangsfinanzierung. Im Laufe der nächsten zwei Jahre wird durch periodische Einstellungen ins Eigenkapital die Rechtsform der vollwertigen GmbH erreicht. 
+\\
+Beide Gründer sind Gesellschafter und nehmen die Verantwortung ebenfalls zu gleichen Teilen als Geschäftsführer wahr.
+
+%=======================================
+
+\subsubsection{Meilensteine}
+
+\begin{description}
+  \item[\textbf{1. Offizieller Start}] \hfill \\
+In den ersten Wochen sollen vor allem die rechtlichen Einzelheiten geregelt werden. Das wird mit kompetenter Begleitung des Centers für Innovation und Entrepreneurship (CIE) des KIT erfolgen. Das CIE verfügt über Erfahung in diesem Bereich und kann den Kontakt zu bewährten Steuerberatern, Anwäten und weiteren wichtigen Ansprechpartnern empfehlen. In dieser Phase soll die Anmeldung des GmbH-Sitzes, die Registrierung und Eintragung der GmbH ins Handelsregister vorgenommen werden. 
+\\
+  \item[\textbf{2. Produktionsgrundlage}] \hfill \\
+Damit die nachfolgende Produktentwicklung einsetzen kann, müssen die Rechenkapazitäten und Lizenzen erworben werden. Die Rechenkapazitäten werden kostengünstig und flexibel bei {\color{orange}Amazon Web Services} eingekauft. Das Gründerteam verfügt bereits über praktische Erfahrung im Umgang mit dem IaaS-Angebot von Amazon und kann diese Technologien gut einschätzen. 
+\\
+Der zweite wichtige Teil dieser Phase umfasst den Erwerb einer Lizenz für \emph{Enrycher}\footnote[3]{Test-Version als Web-Service zu finden unter http://enrycher.ijs.si}, das semantische Textanalyse-Werkzeug des AI-Laboratoriums unseres Technologiepartners JSI. Erster Kontakt zu den Verantwortlichen auf der Seite von JSI konnte über unseren Mentor, das AIFB-Institut, bereits erfolgreich hergestellt werden.
+\\
+  \item[\textbf{3.1. Produktentwicklung}] \hfill \\
+Die ersten 4 Monate nach Kick-Off sind für die Produktentwicklung veranschlagt. Dabei soll die Aufgabe der Frontend-Entwicklung (Infrastruktur und Interface der mobilen Anwendung und der Web-App) an einen geeigneten Dienstleister ausgelagert werden. So kann sich das Gründerteam der Entwicklung der SemLit-Kernkompetenz rund um die Beschaffung, Verwaltung und Analyse der Daten widmen. Damit wird die Time-to-Market signifikant verringert.  
+\\
+  \item[\textbf{3.2. Marketing \& Kundenaquise}] \hfill \\
+Während der letzten Entwicklungsphase werden bereits die ersten Marketing-Kampagnen gestartet. Zunächst sollen verstärkt Privatkunden auf Konferen und durch Social-Media-Marketing geworben werden. 
+\\
+Basierend auf dem Feedback der beta-Kunden werden wir das System verbessern und im Anschluss darauf offensiv um Firmenkunden werben. Zu diesem Zeitpunkt wird ein Kundensupport-Mitarbeiter zum Team stoßen, um eine bessere Betreuung bei Wünschen und Problemen zu gewährleisten.
+\\
+  \item[\textbf{4. Wachstum}] \hfill \\
+Damit das Team adequat die Anregungen und Verbesserungsvorschläge der Benutzer einarbeiten kann, sollte im zweiten Quartal des zweiten Jahres eine feste Developer-Stelle besetzt werden. Das Angebot muss ständig weiterentwickelt und an Kundenwünsche angepasst werden.
+\\
+  \item[\textbf{5. Break-Even}] \hfill \\
+Im Fall von SemLit sind die Kosten der Anfangsphase relativ gut prognostizierbar. Außerdem sind die bedeutsamen Kostenarten (Personal-, Betriebs-, Lizenzkosten) wenig volatil. Damit wird im neutralen Umsatz-Szenario der Break-Even-Punkt schätzungsweise in Q2 des zweiten Geschäftsjahres erreicht. Weitere Details werden im Abschnitt Finanzplanung diskutiert. 
+\end{description}
+
+
+
+
+
 
 
