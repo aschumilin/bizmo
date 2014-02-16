@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.23)  16 FEB 2014 17:45
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.23)  16 FEB 2014 23:15
 entering extended mode
  %&-line parsing enabled.
 **BizPlan.tex
@@ -560,7 +560,11 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidth=\dimen132
 \titlewidthlast=\dimen133
 \titlewidthfirst=\dimen134
-) (./BizPlan.aux)
+) (./BizPlan.aux
+
+LaTeX Warning: Label `tab:break-even' multiply defined.
+
+)
 \openout1 = `BizPlan.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
@@ -668,7 +672,7 @@ Package epstopdf Info: Source file: <./images/./logo.eps>
 ed-to.pdf ./images/./logo.eps>
 (epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
-<./images/./logo-eps-converted-to.pdf, id=131, 450.68375pt x 201.75375pt>
+<./images/./logo-eps-converted-to.pdf, id=143, 450.68375pt x 201.75375pt>
 File: ./images/./logo-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/./logo-eps-converted-to.pdf>
@@ -690,7 +694,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 ...mberline {6.4}Risiken}{24}{subsection.6.4}
+l.30 ...umberline {6}Finanzplanung}{25}{section.6}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `BizPlan.toc'.
@@ -739,7 +743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--131
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
  [4]
-<./images/jsi-aifb-logo.jpg, id=196, 539.01375pt x 86.3225pt>
+<./images/jsi-aifb-logo.jpg, id=211, 539.01375pt x 86.3225pt>
 File: ./images/jsi-aifb-logo.jpg Graphic file (type jpg)
 
 <use ./images/jsi-aifb-logo.jpg>
@@ -759,7 +763,7 @@ Package epstopdf Info: Source file: <./images/idea.eps>
 (epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
-<./images/idea-eps-converted-to.pdf, id=201, 690.58pt x 299.1175pt>
+<./images/idea-eps-converted-to.pdf, id=216, 690.58pt x 299.1175pt>
 File: ./images/idea-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/idea-eps-converted-to.pdf>
@@ -792,10 +796,10 @@ au-toma-tis-chen und in-di-vidu-ellen Überwachung
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] <./images/app.png, id=209, 322.95656pt x 159.59625pt>
+[6] <./images/app.png, id=224, 322.95656pt x 159.59625pt>
 File: ./images/app.png Graphic file (type png)
 
-<use ./images/app.png> <./images/website.png, id=210, 447.1104pt x 385.44pt>
+<use ./images/app.png> <./images/website.png, id=225, 447.1104pt x 385.44pt>
 File: ./images/website.png Graphic file (type png)
 
 <use ./images/website.png>
@@ -854,12 +858,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--167
 
  []
 
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 167--170
 
  []
 
-[10]
+
 Overfull \hbox (2.83096pt too wide) in paragraph at lines 170--172
 \T1/DejaVuSans-TLF/m/it/12 Auÿer-dem sind die be-deut-samen Koste-narten (Perso
 nal-, Betriebs-, Lizen-zkosten) wenig
@@ -869,6 +873,11 @@ nal-, Betriebs-, Lizen-zkosten) wenig
 Overfull \hbox (13.98178pt too wide) in paragraph at lines 170--172
 \T1/DejaVuSans-TLF/m/it/12 volatil. Damit wird im neu-tralen Umsatz-Szenario de
 r Break-Even-Punkt schätzungsweise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--193
+
  []
 
 ) [11] (./sections/markt_analyse.tex
@@ -886,7 +895,7 @@ Package epstopdf Info: Source file: <./images/fig1.eps>
 -to.pdf ./images/fig1.eps>
 (epstopdf)             \includegraphics on input line 34.
 Package epstopdf Info: Output file is already uptodate.
-<./images/fig1-eps-converted-to.pdf, id=251, 455.7025pt x 255.95625pt>
+<./images/fig1-eps-converted-to.pdf, id=267, 455.7025pt x 255.95625pt>
 File: ./images/fig1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/fig1-eps-converted-to.pdf>
@@ -901,7 +910,7 @@ Package epstopdf Info: Source file: <./images/fig2.eps>
 (epstopdf)             \includegraphics on input line 41.
 Package epstopdf Info: Output file is already uptodate.
 
-<./images/fig2-eps-converted-to.pdf, id=253, 454.69875pt x 255.95625pt>
+<./images/fig2-eps-converted-to.pdf, id=269, 454.69875pt x 255.95625pt>
 File: ./images/fig2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ./images/fig2-eps-converted-to.pdf> [12]
@@ -909,9 +918,6 @@ File: ./images/fig2-eps-converted-to.pdf Graphic file (type pdf)
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [13 <./images/fig1-eps-converted-to.pdf>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -925,9 +931,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-Overfull \hbox (1.66039pt too wide) in paragraph at lines 23--24
-[]\T1/DejaVuSans-TLF/m/it/12 Self-Learning Al-go-rith-mus zur Verbesserung Such
-ergeb-nisse, basiert auf vorher gesuchte
+Overfull \hbox (4.97337pt too wide) in paragraph at lines 21--22
+[]\T1/DejaVuSans-TLF/m/it/12 Gestaltung von Lit-er-aturverze-ich-nis-sen für ei
+gene Pub-lika-tio-nen und Export-Funktionen
  []
 
 [18]
@@ -935,8 +941,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[19] [20]) [21] (./sections/unternehmesplanung.tex) [22]
-(./sections/chance_risk.tex
+
+Overfull \hbox (8.13199pt too wide) in paragraph at lines 51--52
+\T1/DejaVuSans-TLF/m/it/12 nutzen. Um die Di-en-stleis-tung für poten-zielle Ku
+n-den bekannt zu machen und eine Möglichkeit
+ []
+
+[19] [20]) [21] (./sections/chance_risk.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--14
 
  []
@@ -951,7 +962,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--23
 
  []
 
-[23]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 25--31
 
  []
@@ -961,52 +972,132 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--162
 
  []
 
-[24] [25] (./sections/finanzplan.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--29
+[23] [24] (./sections/finanzplan.tex
+<./images/financials.jpg, id=350, 374.14781pt x 349.305pt>
+File: ./images/financials.jpg Graphic file (type jpg)
+
+<use ./images/financials.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--38
+
+ []
+
+[25] <./images/finance-table.jpg, id=358, 354.57469pt x 805.50937pt>
+File: ./images/finance-table.jpg Graphic file (type jpg)
+
+<use ./images/finance-table.jpg>
+
+LaTeX Warning: Float too large for page by 89.00052pt on input line 46.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--56
+
+ []
+
+[26 <./images/financials.jpg>]
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./images/financials.jpg, id=336, 374.14781pt x 349.305pt>
-File: ./images/financials.jpg Graphic file (type jpg)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
 
-<use ./images/financials.jpg>
+ []
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package epstopdf Info: Source file: <./images/idea.eps>
-(epstopdf)                    date: 2014-02-09 10:55:23
-(epstopdf)                    size: 218168 bytes
-(epstopdf)             Output file: <./images/idea-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-02-09 10:55:23
-(epstopdf)                    size: 84402 bytes
-(epstopdf)             Command: <epstopdf --outfile=./images/idea-eps-converted
--to.pdf ./images/idea.eps>
-(epstopdf)             \includegraphics on input line 43.
-Package epstopdf Info: Output file is already uptodate.
-File: ./images/idea-eps-converted-to.pdf Graphic file (type pdf)
-<use ./images/idea-eps-converted-to.pdf> [26]
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+ []
 
-) [27 <./images/financials.jpg>] [28] (./BizPlan.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--168
+
+ []
+
+[27] [28 <./images/finance-table.jpg>] (./BizPlan.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7738 strings out of 495061
- 108817 string characters out of 1182620
+ 7745 strings out of 495061
+ 108952 string characters out of 1182620
  209587 words of memory out of 3000000
- 10648 multiletter control sequences out of 15000+50000
+ 10655 multiletter control sequences out of 15000+50000
  12122 words of font info for 34 fonts, out of 3000000 for 9000
  37 hyphenation exceptions out of 8191
- 41i,12n,35p,873b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,877b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-
 texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fon
 ts/type1/public/eurosym/feymr10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
@@ -1014,9 +1105,9 @@ er/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on BizPlan.pdf (29 pages, 639567 bytes).
+Output written on BizPlan.pdf (29 pages, 963359 bytes).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
- 297 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 420 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
 

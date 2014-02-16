@@ -8,27 +8,28 @@
 \contentsline {subsection}{\numberline {2.6}Unternehmensplanung}{9}{subsection.2.6}
 \contentsline {subsubsection}{\numberline {2.6.1}Rechtliches}{9}{subsubsection.2.6.1}
 \contentsline {subsubsection}{\numberline {2.6.2}Meilensteine}{9}{subsubsection.2.6.2}
+\contentsline {subsubsection}{\numberline {2.6.3}Abonnement-Pricing}{11}{subsubsection.2.6.3}
 \contentsline {section}{\numberline {3}Analyse des Marktes}{12}{section.3}
 \contentsline {subsection}{\numberline {3.1}Zielgruppe und potenzielle Kunden}{12}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Marktsituation}{12}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Auswahl der regionale M\IeC {\"a}rkte}{13}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Sch\IeC {\"a}tzung der Marktvolumen}{15}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.3}Auswahl der regionalen M\IeC {\"a}rkte}{13}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Sch\IeC {\"a}tzung des Marktvolumens}{15}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}Wettbewerber}{16}{subsection.3.5}
 \contentsline {subsection}{\numberline {3.6}Alleinstellungsmerkmal und Kundennutzen}{17}{subsection.3.6}
 \contentsline {section}{\numberline {4}Marketingstrategien}{18}{section.4}
 \contentsline {subsection}{\numberline {4.1}Dienstleistungsformen}{18}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Nutzungsverfahren der Dienstleistung}{19}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Monetarisierung}{19}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Vertriebskanake und Kommunikation}{19}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Markteintrittplan}{20}{subsection.4.5}
-\contentsline {section}{\numberline {5}Unternehmensplanung}{22}{section.5}
-\contentsline {section}{\numberline {6}Chancen und Risiken}{23}{section.6}
-\contentsline {subsection}{\numberline {6.1}St\IeC {\"a}rken}{23}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Schw\IeC {\"a}chen}{23}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Chancen}{24}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Risiken}{24}{subsection.6.4}
-\contentsline {section}{\numberline {7}Finanzplanung}{26}{section.7}
-\contentsline {subsection}{\numberline {7.1}Umsatz}{26}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Hauptkostenarten}{26}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}Szenario-Analyse}{26}{subsection.7.3}
-\contentsline {subsection}{\numberline {7.4}Detaillierte Finanzplanung}{27}{subsection.7.4}
+\contentsline {subsection}{\numberline {4.4}Vertriebskan\IeC {\"a}le und Kommunikation}{19}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Markteintrittsplan}{20}{subsection.4.5}
+\contentsline {section}{\numberline {5}Chancen und Risiken}{22}{section.5}
+\contentsline {subsection}{\numberline {5.1}St\IeC {\"a}rken}{22}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Schw\IeC {\"a}chen}{22}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Chancen}{23}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Risiken}{23}{subsection.5.4}
+\contentsline {section}{\numberline {6}Finanzplanung}{25}{section.6}
+\contentsline {subsection}{\numberline {6.1}Umsatz}{25}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Hauptkostenarten}{25}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Szenario-Analyse}{25}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Detaillierte Finanzplanung}{27}{subsection.6.4}
+\contentsline {section}{\numberline {7}Schlusswort}{27}{section.7}

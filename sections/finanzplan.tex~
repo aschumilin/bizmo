@@ -3,14 +3,14 @@
 Hier erläutern wir die Hauptkostenarten sowie Einnahmequellen und entsprechende Annahmen, mit deren Hilfe wir zu einer realistischen Einschätzung der Cashflows der ersten zwei Jahre gelangen.
 \subsection{Umsatz}
 Als Umsatz werden für die Schätzung lediglich die Einnahmen aus den Abbonnements betrachtet. Zusätzlich sollten an dieser Stelle auch Werbeeinnahmen addiert werden, die wir jedoch mangels genauer Prognosen weglassen. Es handelt sich hier also um eine konservative Schätzung.\\
-Neben den kalkulierten Preisen für private Accounts (1\euro basic, 3\euro extended) und Firmenkunden (150\euro basic, 450\euro extended) nehmen wir außerdem je Kundengruppe einen Split von 30-70 für den Kauf der extended- bzw. der basic-Version an. Der Marktanteil wird konservativ mit 1\% angesetzt, was einer realistischen Schätzung für ein Spezial-Start-Up in den ersten 24 Monaten entspricht.
+Neben den kalkulierten Preisen für private Accounts (1\euro{} basic, 3\euro{} extended) und Firmenkunden (150\euro{} basic, 450\euro{} extended) nehmen wir außerdem je Kundengruppe einen Split von 30-70 für den Kauf der extended- bzw. der basic-Version an. Der Marktanteil wird konservativ mit 1\% angesetzt, was einer realistischen Schätzung für ein Spezial-Start-Up in den ersten 24 Monaten entspricht.
 \subsection{Hauptkostenarten}
-Im ersten Monat fallen Lizenzkosten in Höhe von 35.000\euro an. Dazu kommen relativ geringfügige Fixkosten der GmbH-Anmeldung. In den darauf folgenden 4 Monaten spielen die Kosten des externen Development-Dienstleisters eine wichtige Rolle. \\
+Im ersten Monat fallen Lizenzkosten in Höhe von 35.000\euro{} an. Dazu kommen relativ geringfügige Fixkosten der GmbH-Anmeldung. In den darauf folgenden 4 Monaten spielen die Kosten des externen Development-Dienstleisters eine wichtige Rolle. \\
 Den bei weitem größten laufenden Posten bilden die Personalkosten, gefolgt von den variablen Kosten der IT-Infrastruktur bei Amazon Web Services. 
 
 \subsection{Szenario-Analyse}
-Ausgehend von dem Normalfall werden das beste und schlechteste Szenario simuliert, indem die Umsatzerlöse variiert werden. Die Kosten nehmen wir dabei jeweils als konstant an.\\
-Für jedes Szenario ist die Lage des Break-Even Punktes von Interesse:
+Ausgehend von dem Normalfall werden das beste und schlechteste Szenario durch Variation der Umsatzerlöse simuliert. Die Kosten nehmen wir dabei jeweils als konstant an. Von der Besteuerung wird an dieser Stelle abgesehen und stattdessen nur der EBIT betrachtet. Im Überblick zeigt Abbildung \ref{fig:financials1} den Verlauf der Kosten, Umsatzerlöse und des Gewinns vor Steuern und Abschreibungen (EBIT) im neutralen Umsatzszenario. \\
+Für jedes Szenario ist die Lage des Break-Even-Punktes von besonderem Interesse (Tabelle \ref{tab:break-even}):
 \\
 \\
 \begin{table}[h!]
@@ -23,13 +23,44 @@ Für jedes Szenario ist die Lage des Break-Even Punktes von Interesse:
  \textbf{worst case} & 50\% & 25. Monat \\ \hline
   \end{tabular} 
     \end{footnotesize}
-  \caption{Break-Evene in Szenarien mit unterschiedlicher Umsatzentwicklung}
-  \label{tab:wettDaten}
+  \caption{Break-Even in Szenarien mit unterschiedlicher Umsatzentwicklung}
+  \label{tab:break-even}
 \end{table} 
+\\
+\\
+\\
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{financials}
+\caption{Umsatz, Kosten und EBIT im neutralen Fall der Umsatzentwicklung}
+\label{fig:financials1}
+\end{figure}
+
 \subsection{Detaillierte Finanzplanung}
-- Einnahmen- und Ausgabenplanung für die ersten zwei Jahre nach Gründung mit Erläuterungen 
-
-Geld spielt bei der Existenzgründung eine große Rolle. Daher sollten Sie in Ihrem Businessplan diesen Punkt exakt ausarbeiten und mit Zahlen und Fakten belegen. In Teil 1 nennen Sie die geplanten Investitionen, die Sie am Anfang und im Laufe der ersten Zeit tätigen. Listen Sie alle größeren Anschaffungen der nächsten drei bis fünf Jahre auf. Aus dieser Liste ergeben sich der Kapitalbedarf und die jährlichen Abschreibungen. Teil 2 ist der Liquiditätsplan: Er zeigt alle Ausgaben und Einnahmen, die Sie in den nächsten Jahren erwarten. Für das erste Jahr machen Sie eine monatliche Aufstellung, für die Folgejahre reicht eine Auflistung zunächst nach Quartalen, später pro Halbjahr. Darüber hinaus erstellen Sie eine Gewinn- und Verlustrechnung über den voraussichtlichen Geschäftsverlauf samt Umsätzen, Ausgaben und Gewinnen. Anschließend ordnen Sie die Finanzierungsposten den Kapitalgebern zu: Wie viel Eigenkapital haben Sie, und wofür setzen Sie es ein? Und wie viel Unterstützung durch Banken oder andere Kreditgeber brauchen Sie für welche Posten? Vergessen Sie auch nicht eine Reserve für unvorhersehbare Ausgaben.
-
-- paypal-gebühren mitberechnen
- % {\color{orange}WIR VERBREITEN IHRE ARTIKEL>>>}
+Im Folgeden werden die Details des Finanzplans anhand des neutralen Szenarios näher betrachtet. Hier wird der Break-Event-Punkt in Monat 18 erreicht. In der Betrachtung der Kosten werden auch die Umsatzgebühren des Microtransaction-Dienstleisters PayPal berücksichtigt. In Abbildung \ref{fig:financials2} werden die einzelnen Kostenarten sowie Umsatzquellen und zusätzliche Parameter aufgeführt, die ein neutrales Umsatzszenario beschreiben. 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{finance-table}
+\caption{Detaillierter Finanzplan für das neutrale Umsatz-Szenario.}
+\label{fig:financials2}
+\end{figure}
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\section{Schlusswort}
+Das Gründerteam von SemLit ist zuversichtlich, dass Sie von unserem Erfolg überzeugt sind. Wir blicken entschlossen in die Zukunft und freuen uns auf eine erfolgreiche Zusammenarbeit. 
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+Igor Tseyzer und Artem Schumilin
