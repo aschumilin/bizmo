@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.23)  16 FEB 2014 14:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.11.23)  16 FEB 2014 17:45
 entering extended mode
  %&-line parsing enabled.
 **BizPlan.tex
@@ -824,6 +824,11 @@ LaTeX Font Warning: Font shape `OMS/DejaVuSans-TLF/m/n' undefined
 (Font)              for symbol `textbullet' on input line 127.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
@@ -956,19 +961,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--162
 
  []
 
-[24] [25] (./sections/finanzplan.tex) [26] (./BizPlan.aux)
+[24] [25] (./sections/finanzplan.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--29
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/financials.jpg, id=336, 374.14781pt x 349.305pt>
+File: ./images/financials.jpg Graphic file (type jpg)
+
+<use ./images/financials.jpg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <./images/idea.eps>
+(epstopdf)                    date: 2014-02-09 10:55:23
+(epstopdf)                    size: 218168 bytes
+(epstopdf)             Output file: <./images/idea-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-02-09 10:55:23
+(epstopdf)                    size: 84402 bytes
+(epstopdf)             Command: <epstopdf --outfile=./images/idea-eps-converted
+-to.pdf ./images/idea.eps>
+(epstopdf)             \includegraphics on input line 43.
+Package epstopdf Info: Output file is already uptodate.
+File: ./images/idea-eps-converted-to.pdf Graphic file (type pdf)
+<use ./images/idea-eps-converted-to.pdf> [26]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [27 <./images/financials.jpg>] [28] (./BizPlan.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 7723 strings out of 495061
- 108577 string characters out of 1182620
+ 7738 strings out of 495061
+ 108817 string characters out of 1182620
  209587 words of memory out of 3000000
- 10641 multiletter control sequences out of 15000+50000
+ 10648 multiletter control sequences out of 15000+50000
  12122 words of font info for 34 fonts, out of 3000000 for 9000
  37 hyphenation exceptions out of 8191
- 41i,12n,35p,1203b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,873b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-
 texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fon
 ts/type1/public/eurosym/feymr10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
@@ -976,9 +1014,9 @@ er/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on BizPlan.pdf (27 pages, 600103 bytes).
+Output written on BizPlan.pdf (29 pages, 639567 bytes).
 PDF statistics:
- 386 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 292 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}Executive Summary}{3}{section.1}
 \contentsline {section}{\numberline {2}Gesch\IeC {\"a}ftsidee}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Womit wir uns befassen}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Worum es hier geht}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Know-how Tr\IeC {\"a}ger}{5}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Innovation}{6}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Produkt}{7}{subsection.2.4}
@@ -28,5 +28,7 @@
 \contentsline {subsection}{\numberline {6.3}Chancen}{24}{subsection.6.3}
 \contentsline {subsection}{\numberline {6.4}Risiken}{24}{subsection.6.4}
 \contentsline {section}{\numberline {7}Finanzplanung}{26}{section.7}
-\contentsline {subsection}{\numberline {7.1}Best-average-worst-Betrachtung}{26}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Detaillierte Finanzplanung}{26}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.1}Umsatz}{26}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Hauptkostenarten}{26}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Szenario-Analyse}{26}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Detaillierte Finanzplanung}{27}{subsection.7.4}
